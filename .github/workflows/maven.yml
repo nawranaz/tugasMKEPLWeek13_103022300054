@@ -5,7 +5,7 @@ name: Build Project
 
 on:
   pull_request:
-    branches: [main]
+    branches: [master]
   release :
     types : [created]
 
